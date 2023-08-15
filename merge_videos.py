@@ -28,4 +28,4 @@ def merge_video_by_opencv(videos_path, save_path):
 
     writer.release()
 
-    return save_path
+    return merge_log
